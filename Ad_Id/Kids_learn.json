@@ -1,0 +1,22 @@
+{
+  "android": {
+    "platform": "android",
+    "package_name": "com.jdpsoft.kids.learn",
+    "app_version": "1",
+    "is_ad_show": true,
+    "admob_appid": "ca-app-pub-4043966787121477~6469124635",
+    "admob_bannerid": "ca-app-pub-4043966787121477/8527439624",
+    "admob_interid": "ca-app-pub-4043966787121477/6879316030",
+    "admob_appopenid": "ca-app-pub-4043966787121477/7585030645",
+    "admob_nativeid": "ca-app-pub-4043966787121477/1895169393",
+    "admob_rewardInter": "",
+    "inter_count": "2",
+    "ad_splash": "1",
+    "ad_inter": "1",
+    "ad_appopen": "1",
+    "ad_native": "1",
+    "ad_banner": "1",
+    "ad_rewardInter": "1",
+    "privacy_url": "https://sites.google.com/view/jdpdevs/home"
+  }
+}
